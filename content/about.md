@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2017-10-20T21:56:50-07:00
-draft: true
+draft: false
 showthedate: false
 ---
 

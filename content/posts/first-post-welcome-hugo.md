@@ -2,7 +2,7 @@
 title: "First Post; Welcome Hugo"
 date: 2017-10-20
 tags: [hugo]
-draft: true
+draft: false
 showthedate: true
 ---
 
