@@ -27,10 +27,10 @@ googleAnalytics = ""
     name = "Posts"
     weight = 2
 
-[[menu.main]]
-    url = "/projects/"
-    name = "Projects"
-    weight = 3
+# [[menu.main]]
+#     url = "/projects/"
+#     name = "Projects"
+#     weight = 3
 
 [[menu.main]]
     url = "/about/"
