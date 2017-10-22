@@ -1,7 +1,7 @@
 ---
 title: "Hugo CMS"
 date: 2017-10-21
-tags: [Hugo]
+tags: [hugo]
 draft: false
 showthedate: true
 ---
