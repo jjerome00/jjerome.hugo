@@ -1,7 +1,7 @@
 ---
 title: "WA State Toll Tracker, for Android"
 date: 2015-09-24
-draft: true
+draft: false
 updated: 2015-09-24T11:25:10Z
 blogimport: true
 tags: [Android]
