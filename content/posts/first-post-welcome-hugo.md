@@ -1,7 +1,7 @@
 ---
 title: "First Post; Welcome Hugo"
 date: 2017-10-20
-tags: [hugo]
+tags: []
 draft: false
 showthedate: true
 ---

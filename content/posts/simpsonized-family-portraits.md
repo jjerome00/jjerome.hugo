@@ -3,7 +3,7 @@ title: "Simpsonized Family Portraits"
 date: 2015-07-02
 draft: false
 blogimport: true
-tags: [Simpsons, GIMP, Art]
+tags: [Projects]
 showthedate: true
 ---
 

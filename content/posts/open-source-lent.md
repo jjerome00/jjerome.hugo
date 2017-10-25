@@ -1,7 +1,7 @@
 ---
 title: "Open Source Lent"
 date: 2011-03-11
-tags: ["open source", "charity", religion]
+tags: [charity]
 blogimport: = true
 draft: false
 showthedate: true

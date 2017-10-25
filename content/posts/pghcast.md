@@ -1,7 +1,7 @@
 ---
 title: "pghCAST"
 date: 2006-09-18
-tags: ["podcast"]
+tags: [Projects]
 blogimport: = true
 draft: false
 showthedate: true

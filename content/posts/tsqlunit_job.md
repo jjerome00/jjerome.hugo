@@ -1,7 +1,7 @@
 ---
 title: "TSQLUnit_Job"
 date: 2015-07-28
-tags: [Projects, SQL]
+tags: [Projects]
 draft: false
 showthedate: true
 ---

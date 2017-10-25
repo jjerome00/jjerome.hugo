@@ -1,7 +1,7 @@
 ---
 title: "TARDIS Fridge"
 date: 2015-08-11
-tags: [Projects, art, TARDIS, "Doctor Who"]
+tags: [Projects]
 blogimport: true
 draft: false
 showthedate: true

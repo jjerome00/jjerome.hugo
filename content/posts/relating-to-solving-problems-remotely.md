@@ -1,7 +1,7 @@
 ---
 title: "Relating to Solving Problems Remotely"
 date: 2015-01-27
-tags: ["Remote Work"]
+tags: [musings]
 blogimport: true
 draft: false
 showthedate: true

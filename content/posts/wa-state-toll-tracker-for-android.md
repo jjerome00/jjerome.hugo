@@ -4,7 +4,7 @@ date: 2015-09-24
 draft: false
 updated: 2015-09-24T11:25:10Z
 blogimport: true
-tags: [Android]
+tags: [Android, Development]
 showthedate: true
 ---
 
