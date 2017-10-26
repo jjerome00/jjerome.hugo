@@ -18,7 +18,8 @@ I was walking my dog around the neighborhood and we got caught in a rainstorm.  
 ## Prototype
 My first idea was to build a wheel out of spoons.  I attached some 2x4's to a post for the stand, and made an octagon-shaped piece of wood to hold all the spoons.  I found the huge funnel on a website that sold equipment for brewing beer.
 
-<img src="/images/blog/waterwheel/20140719_180600.jpg" />
+<a href = "/images/blog/waterwheel/20140719-prototype.jpg">
+<img border="0" src="/images/blog/waterwheel/20140719-prototype.jpg" /></a>
 
 <br /><br />
 
