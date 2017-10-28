@@ -2,7 +2,7 @@ baseURL = "http://jjerome.com/"
 languageCode = "en-us"
 title = "Jason Jerome"
 theme = "minimal"
-# disqusShortname = "username" # delete this to disable disqus comments
+disqusShortname = "jjerome" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
