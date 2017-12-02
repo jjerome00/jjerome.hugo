@@ -1,7 +1,7 @@
 ---
 title: "Things that make me happy"
 date: 2011-11-10
-tags: [musings]
+tags: [Random]
 draft: false
 showthedate: true
 ---

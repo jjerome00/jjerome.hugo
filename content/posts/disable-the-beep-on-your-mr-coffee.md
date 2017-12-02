@@ -1,7 +1,7 @@
 ---
 title: "Disable the beep on your Mr Coffee"
 date: 2015-02-16
-tags: [Projects]
+tags: [Random]
 draft: false
 showthedate: true
 ---

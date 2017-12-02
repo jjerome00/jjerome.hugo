@@ -1,7 +1,7 @@
 ---
 title: "Growing up as a clueless goofy Catholic kid"
 date: 2015-02-27
-tags: [story]
+tags: [Random]
 draft: false
 showthedate: true
 ---
