@@ -12,7 +12,7 @@ I had the idea deep into Christmas season last year.  I thought it would be easy
 
 <table width="100%">
 <tr align="center">
-<td><iframe width="560" height="315" src="https://www.youtube.com/embed/tKmLy_gvxU4?rel=0&amp;controls=0&amp;showinfo=0;mute=1" frameborder="0" allowfullscreen></iframe></td>
+<td><iframe width="100%" height="315" src="https://www.youtube.com/embed/tKmLy_gvxU4?rel=0&amp;controls=0&amp;showinfo=0;mute=1" frameborder="0" allowfullscreen></iframe></td>
 <tr>
 <tr align="center">
 <td>The finished Project</td>
@@ -21,16 +21,9 @@ I had the idea deep into Christmas season last year.  I thought it would be easy
 
 <br />
 
-It's much easier to view the entire process using the album I have posted below.  If you are more interested in seeing pictures, then by all means check out the album!
+> It's much easier to view the entire process using the original album. If you are more interested in setting pictures, then by all means check out the album!
 
-<table width="100%">
-<tr align="center">
-<td><blockquote class="imgur-embed-pub" lang="en" data-id="a/dp5qG"><a href="//imgur.com/dp5qG">Yard Gondola (Ski Lift)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></td>
-<tr>
-<tr align="center">
-<td><b>Click on the album to see more detail of how I put it together</b></td>
-<tr>
-</table>
+> <a href="https://imgur.com/gallery/59DST" target="`_blank`">`https://imgur.com/gallery/59DST`</a>
 
 <br />
 
@@ -68,7 +61,7 @@ I finally turned to craigslist and wrote to someone who was selling small motors
 
 The motor works by friction.  A wheel on the motor rubs against the gondola wheel and makes it turn.  I made a custom mount out of wood to hold the motor, and used a nail to make a pivot-point.  This way I can adjust how close the motor is to the wheel.  I kept the connection solid using a turnbuckle.  It allowed me to dial-in the friction and keep it there.
 
-<table>
+<table width="90%">
 <tr align="center">
 <td><img src="https://lh3.googleusercontent.com/b6o4ITwuN6oYXmFJ6IU_SvfmaAWAiKJUtORVLW8kfxbZ-KQ8-5XU1DEtkVP-2Yp4Z1239Ng3iZum6Fd4xqgc-ysgW2rDw8zbrslTyMRd5scPRQA0Hj_pdO1lFYrT9nMjLMhio9G7BfPsgpdEoUdJ-lAGeHLm1DVb3p4MCTNNWQ5MzfPL9DdQxlaV_u7QhfX7j7z8aogXkXEv7XlEnCNOBTHv8VJOxIHembSliv5d4lkAKtKMNx-naq9aaGJTX9GLME7gB4eD0Anq-bJHxdJCj_eW5vN-l3NkB7My0jk-pWPfwdvcjc5o-Wd0Sfkvu87tKjm2qCYHu3U8CkUFNa9QeLtHqfqnC_Ktq0RICFcb3HMFdQN1iJ3I_OU3zxyIWvw8lCMPwkZ93KVzAislUBLLUd96u4onrjJlPf21yfnOmhmZjmkRsdl0eILfodkoCrtl88hzLFoPFzCOkXO4Xe4Pwr6EiBfDVpPAsN2p1ke9DTP-KseQQS6EVXuIJ6AO-VhrMFFIAap4TZB9bX4iC-JcrFqGVFGMd0z98DCDrWs99nofABgSUl2qFM5JUrP7ocVtRmaOHHD8jOUxK74ttpsGLnyg_UZtC_zY3o4uMknUsCUhrDzN_IhTJiQ9Rk81t6aeHxhj_vadYzA-X7xlMmfFc0FqWZ6akoC9EFO9=w1070-h800-no" /></td>
 <tr>
