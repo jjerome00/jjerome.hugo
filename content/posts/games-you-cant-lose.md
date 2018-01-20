@@ -2,7 +2,7 @@
 title: "Games You Can't Lose"
 date: 2018-01-19
 tags: [Projects, Android, Development]
-draft: true
+draft: false
 showthedate: true
 ---
 
