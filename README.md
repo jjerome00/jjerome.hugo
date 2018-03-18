@@ -7,6 +7,15 @@ Source code for the website of Jason Jerome
 http://www.jjerome.com
 
 
+## Basics
+
+New blog page: `hugo new posts/my-post.md`   
+Run a test server: `hugo server -D` (-D: show all pages marked as draft)   
+
+publish final site:
+1. Make sure to remove draft flag for all new content!
+2. run `./publishHugo.md` (for my environment only - sorry kids)
+
 
 ## How To
 
