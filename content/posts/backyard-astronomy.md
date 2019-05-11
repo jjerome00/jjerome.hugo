@@ -1,7 +1,7 @@
 ---
 title: "Backyard Astronomy"
 date: 2015-01-26
-tags: [astronomy]
+tags: [Astronomy]
 draft: false
 showthedate: true
 ---
